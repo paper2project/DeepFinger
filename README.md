@@ -1,3 +1,3 @@
 # DeepFinger
 
-This is a open source tool for IoT device identification.
+This is an open source tool for IoT device fingerprinting.
